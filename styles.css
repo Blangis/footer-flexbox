@@ -1,0 +1,50 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+  }
+  
+span{
+    color:rgb(197, 201, 201);
+}
+.wrapper-botton{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+
+.wrapper-top{
+    display:flex;
+    justify-content: space-around;
+
+}
+
+.wrapper-right{
+    display:flex;
+    gap: 100px;
+}
+
+.wrapper-right p {
+    margin:0;
+}
+
+.wrapper-logo{
+    display:flex;
+    justify-content: center;
+    align-content: center;
+}
+
+#logo{
+    width:80px;
+}
+
